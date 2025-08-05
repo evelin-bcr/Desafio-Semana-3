@@ -5,7 +5,6 @@
 
 Se presenta la solucion al reto numero 2 del desafio tecnico de la semana 3.
 
-
 ## 🛠️ Tecnologías utilizadas:
 
 - HTML5  
