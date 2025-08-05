@@ -9,7 +9,7 @@ Se presenta la solucion al reto numero 3 del desafio tecnico de la semana 3.
 
 - HTML5  
 - JS
-- Font Awesome 
+- Font Awesome. 
 
 ## Pseudocódigo:
 
